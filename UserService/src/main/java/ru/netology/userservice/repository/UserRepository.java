@@ -31,9 +31,4 @@ public class UserRepository {
         return Optional.ofNullable(users.get(userId));
     }
 
-//    public User getUserById (int userId) {
-//        return users.get(userId);
-//    }
-
-
 }
